@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ScummVM.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>2.5.1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B56299C1D1E10FB3221403F99FEDA80F6F67593F</string>
+				<key>dateExpires</key>
+				<string>08/02/2023</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>984PFW7L42.org.janezkranjc.scummvm</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>984PFW7L42</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>984PFW7L42.org.janezkranjc.scummvm</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>scummvm.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>74fdfee8-ed0e-470f-9c81-2ae992f7925e</string>
+				<key>dateExpires</key>
+				<string>08/02/2023</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: org.janezkranjc.scummvm</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>984PFW7L42</string>
+				<key>name</key>
+				<string>Janez Kranjc</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>2.5.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
